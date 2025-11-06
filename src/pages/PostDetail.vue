@@ -20,8 +20,17 @@
 </div>
   </div>
 </template>
-
-<script setup>
+<script src="https://giscus.app/client.js"
+  data-repo="sx-feng/sx-feng.github.io"
+  data-repo-id="你的仓库ID"
+  data-category="General"
+  data-category-id="类别ID"
+  data-mapping="pathname"
+  data-reactions-enabled="1"
+  data-emit-metadata="0"
+  data-theme="light"
+  crossorigin="anonymous"
+  async>
 import { ref, onMounted } from 'vue'
 import { useRoute, useRouter } from 'vue-router'
 import { marked } from 'marked'
