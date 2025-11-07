@@ -57,6 +57,6 @@
     "category": "技术教程",
     "tags": ["Docker", "后端", "容器"],
     "cover": "/data/xia.jpg",
-    "file": "/posts/Docker 快速入门.md"
+    "file": "/posts/Docker.md"
   }
 ]
