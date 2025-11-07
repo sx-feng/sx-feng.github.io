@@ -9,7 +9,7 @@
     "cover": "/data/bg2.jpg",
     "file": "/posts/早知道不看言情小说了.md"
   },
-  {
+  { 
     "id": 2,
     "title": "前端开发笔记",
     "description": "整理前端开发过程中的常用技巧和经验。",
@@ -38,6 +38,25 @@
   "cover": "/data/bg5.jpg",
   "tags": ["生活", "随笔", "温柔"],
   "file": "/posts/关于风和温柔的下午.md"
-}
-
+  },
+    {
+    "id": 5,
+    "title": "我的编程之路",
+    "description": "从最初的 Hello World 到独立开发项目的成长故事。",
+    "date": "2025-10-18",
+    "category": "技术人生",
+    "tags": ["编程", "随笔", "成长"],
+    "cover": "/data/bg6.jpg",
+    "file": "/posts/我的编程之路.md"
+  },
+ {
+    "id": 7,
+    "title": "Docker 快速入门",
+    "description": "10 分钟带你入门 Docker，理解镜像、容器与网络。",
+    "date": "2025-07-23",
+    "category": "技术教程",
+    "tags": ["Docker", "后端", "容器"],
+    "cover": "/data/xia.jpg",
+    "file": "/posts/Docker 快速入门.md"
+  }
 ]
